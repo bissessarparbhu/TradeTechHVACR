@@ -231,7 +231,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 
 .t_color3 {
-  color: #222d39;
+  color: #fff;
 }
 
 .d_p_color {
@@ -5281,7 +5281,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   position: relative;
 }
 .perfect_solution_area .perfect_solution_right .bg_img {
-  background: url("../img/new/solution_01.jpg") no-repeat scroll center 0;
+  background: url("../img/img3.jpg") no-repeat scroll center 0;
   position: absolute;
   left: 0;
   top: 0;
@@ -5289,9 +5289,10 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   width: 100%;
   height: 130%;
   background-size: cover;
+  
 }
 .perfect_solution_area .perfect_solution_right .bg_img.bg_two {
-  background: url("../img/new/solution_02.jpg") no-repeat scroll center 0;
+  background: url("../img/img7.jpg") no-repeat scroll center 0;
 }
 
 /*=========== startup_fuatures_area css ==========*/
@@ -6053,7 +6054,7 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
   border: 1px solid #f4f4f9;
   background-color: white;
   box-shadow: 0px 2px 4px 0px rgba(12, 0, 46, 0.04);
-  padding: 50px;
+  padding: 1px 2px 3px 16px;
   transition: all 0.2s linear;
   margin-bottom: 30px;
   cursor: pointer;
@@ -6104,6 +6105,11 @@ a:hover, a:focus, .btn:hover, .btn:focus, button:hover, button:focus {
 }
 .app_service_item:hover {
   box-shadow: 0px 20px 40px 0px rgba(12, 0, 46, 0.08);
+}
+
+.sexyColor{
+  background-image: -moz-linear-gradient(0deg, #34495e 0%, #2c3e50 100%);
+  background-image: -webkit-linear-gradient(0deg, #34495e 0%, #2c3e50 100%);
 }
 
 .app_service_area_two {
