@@ -703,6 +703,7 @@
     }
     .perfect_solution_area .perfect_solution_right .bg_img{
         position: relative;
+        height: 100%;
     }
     .perfect_solution_area .perfect_solution_left .per_solution_content.per_solution_content_two,.perfect_solution_area .perfect_solution_left .per_solution_content,.perfect_solution_area .perfect_solution_left .per_solution_content.per_solution_content_three{
         max-width: 960px;
